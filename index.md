@@ -4,3 +4,6 @@
 yum update
 Example of updating linux system
 ```
+- [ ] Arrive
+- [ ] Raise Hell
+- [ ] Leave
